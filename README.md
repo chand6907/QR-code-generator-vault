@@ -1,3 +1,4 @@
+## 🌐 Live Demo → https://qr-code-generator-vault.onrender.com/dashboard
 # QRVault — Java Spring Boot QR Code Generator
 
 A full-stack Java web application that lets registered users generate, customize, and download QR codes for URLs, text, Wi-Fi credentials, and contact cards. Built with Spring Boot, Spring Security, JPA, and ZXing.
